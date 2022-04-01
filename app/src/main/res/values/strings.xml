@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Activity19110017</string>
+    <string name="app_name">LaiSuat19110017</string>
     <string name="title">Công Cụ Tính Lãi Tiền Gửi</string>
     <string name="num1">Số tiền gửi*</string>
     <string name="num2">Lãi suất gửi*</string>
@@ -8,4 +8,5 @@
     <string name="num5">Tổng số tiền nhận được khi hết hạn</string>
     <string name="btn_result">XEM KẾT QUẢ</string>
     <string name="btn_camera">TAKE A PICTURE</string>
+    <string name="btn_back">Back</string>
 </resources>
